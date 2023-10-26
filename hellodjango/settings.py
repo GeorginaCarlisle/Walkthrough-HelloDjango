@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-vn3-jrz0+px1j)nbzo81(bq@ubyc2v-gy*+_8=69zs2v=*!*6g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://git.heroku.com/walkthrough-hello-django.git']
 
 
 # Application definition
